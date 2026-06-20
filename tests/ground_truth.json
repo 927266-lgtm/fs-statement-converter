@@ -1,0 +1,8 @@
+[
+  {
+    "file": "sample_single_audit.pdf",
+    "expected_chunks": 25,
+    "expected_entity_type": "Single Audit Package",
+    "notes": "Title, TOC, 6 Auditor Report chunks, BS, SOA, CF, 10 Notes, SEFA, Notes to SEFA, Yellow Book, Compliance, Findings, Action Plan"
+  }
+]
